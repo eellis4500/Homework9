@@ -1,9 +1,9 @@
 # ReadMe Generator
-    ![GitHub license](https://img.shidleds.io/badge/license-GPL 3.0-red.svg)
+    ![GitHub license](https://img.shields.io/badge/license-GPL 3.0-red.svg)
 
     ## Description
 
-    ReadMe Generator is an automated way to make a simple yet professional ReadMe for any project.
+    A application that helps you create a professional and usable ReadMe for coding projects on GitHub.
 
     ## Installation
 
@@ -11,11 +11,11 @@
 
     ## Usage
 
-    Visit Repo, follow link, and use to your hearts content!
+    After downloading code and installing, run in terminal and answer the questions asked by the program. It will automatically create the MarkDown document.
 
     ## Credits
 
-    https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+    Various YouTube tutorials, classes from Trillogy.
 
     ## License
 
